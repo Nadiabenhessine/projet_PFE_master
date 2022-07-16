@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+  }
+  #login .container #login-row #login-column #login-box {
+    margin-top: 120px;
+    max-width: 600px;
+    height: 320px;
+    border: 1px solid rgb(104, 94, 94);
+    border-radius: 10px;
+
+  }
+  #login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+    color: black;
+  }
+  #login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
+  }
+  .btn-md{
+    background-color: #504f4e;
+    color: white;
+    border-radius: 5px;
+    margin: 10px;
+  }
+  input{
+    border-radius: 10px;
+  }

@@ -1,0 +1,18 @@
+.newsletter{
+    text-align: center;
+    color: white;
+    background-color: orange;
+    padding: 30px;
+}
+
+
+input{
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid orange;
+    border-radius: 10px;
+}
+.btn-md{
+    color: white;
+    background-color: rgb(95, 89, 89);
+}

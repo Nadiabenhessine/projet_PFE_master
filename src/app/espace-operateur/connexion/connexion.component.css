@@ -1,0 +1,33 @@
+body {
+    margin: 10;
+    padding: 10;
+    height: 100vh;
+  }
+#login-box {
+    margin-top: 120px;
+    max-width: 600px;
+    height: 320px;
+    border: 1px solid black;
+    border-radius: 10px;
+
+  }
+ #login-form {
+    padding: 20px;
+    color: black;
+  }
+
+  .btn-md{
+    background-color: #504f4e;
+    color: white;
+    border-radius: 10px;
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+
+  }
+  p{
+    text-align: center;
+}
+  input{
+    border-radius: 10px;
+  }

@@ -1,0 +1,17 @@
+.footer-wrap {
+    padding-top: 30px;
+    background-size: cover;
+    background-color: rgb(128, 118, 118);
+    color: white;
+
+}
+li a {
+    font-size: 14px;
+    line-height: 26px;
+    text-decoration: none;
+    color: white;
+
+}
+.copyRidht{
+    text-align: center;
+}

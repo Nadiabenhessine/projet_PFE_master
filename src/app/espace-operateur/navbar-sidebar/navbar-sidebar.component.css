@@ -1,0 +1,19 @@
+.navbar.bg-light {
+    background-color: #f3e2b3 !important;
+}
+.form-control {
+      border-radius: 4.25rem;
+    }
+.pt-5{
+      background-color: #504f4e;
+      height: 700px;
+      width: 200px;
+}
+.pt-5 li{
+  margin-top: 20px;
+
+}
+a{
+  color: white;
+}
+
